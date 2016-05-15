@@ -1,3 +1,5 @@
+#!/usr/bin/env coffee
+
 fs = require 'fs'
 vigenere = require './vigenere.coffee'
 helper = require './helper.coffee'
